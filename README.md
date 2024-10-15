@@ -1,4 +1,4 @@
-____________________________________________________________________________ PORTUGÊS ______________________________________________________________________________________________________________________
+_________________________________________________________ PORTUGÊS ______________________________________________________________________________________________________________________
 
 
 Este projeto não possui colaboradores, apenas um criador único e solitário que está deixando ele livremente no mercado para que seus usuários assim façam um excelente uso com sabedoria.
@@ -22,7 +22,7 @@ Venceremos o Estado que nos fizeram vítimas ainda antes de nascer.
 
 
 
-_____________________________________________________________________________ ENGLISH _____________________________________________________________________________________________________________________
+_______________________________________________________ ENGLISH _____________________________________________________________________________________________________________________
 
 
 This project has no collaborators, just a unique and solitary creator who is leaving it freely in the market so that its users can make excellent use of it wisely.
