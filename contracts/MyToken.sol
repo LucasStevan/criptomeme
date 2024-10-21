@@ -6,7 +6,7 @@ contract GPPCCR {
     string public symbol = "GPPCCR";
     uint8 public decimals = 8;
     uint256 public totalSupply = 1000000 * 10 ** uint256(decimals); // 1M tokens
-    string public tokenURI = "https://drive.google.com/file/d/10yJRtU3EmZurnLht17NJDMyj43ZX26bn/view?usp=drive_link";
+    string public tokenURI = "https://drive.google.com/file/d/1GXWOkk2CvK97M3_i74PZqCXPyrkwKDOb/view?usp=sharing";
 
     mapping(address => uint256) public balanceOf;
     mapping(address => mapping(address => uint256)) public allowance;
